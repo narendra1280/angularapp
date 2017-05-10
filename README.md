@@ -9,6 +9,6 @@ clone the project
 
 open it using gitbash
 
-run "NPM instal"
+run "NPM install"
 
 then "NPM start"
